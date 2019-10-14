@@ -10,9 +10,9 @@ This is a Rock–paper–scissors game where you will have to choose the three o
 
 ### And remember: 
 <ul>
-  <li>*Rock beats scissors.</li>
-  <li>*Paper beats rock.</li>
-  <li>*Scissors beats paper.</li>
+  <li>Rock beats scissors.</li>
+  <li>Paper beats rock.</li>
+  <li>Scissors beats paper.</li>
 </ul>
 
 
