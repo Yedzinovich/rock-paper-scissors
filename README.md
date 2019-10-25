@@ -2,7 +2,7 @@
 
 ### A web application game which would make us remember our schooldays
 
-### https://innawebdev.offyoucode.co.uk/rock-paper-scissors/
+#### Go [rock-paper-scissors](https://innawebdev.offyoucode.co.uk/rock-paper-scissors/) and play!
 
 ## Description 
 
